@@ -6,7 +6,7 @@
 
     ```
     git clone https://github.com/yeggor/ida-mal-enums.git
-    cd bar
+    cd ida-mal-enums
     git submodule update --init --recursive
     ```
 
