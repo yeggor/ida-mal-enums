@@ -1,0 +1,3 @@
+[submodule "shellcode_hashes"]
+	path = shellcode_hashes
+	url = https://github.com/securitykitten/shellcode_hashes.git
