@@ -7,7 +7,7 @@ import idc
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # template for searching csv files with hashes
-HASHES_TMPL = os.path.join(CURRENT_DIR, 'shellcode_hashes', 'hashes', '*')
+HASHES_TMPL = os.path.join(CURRENT_DIR, 'hashes', '*')
 
 # uncomment the hash type if you want to create enumerations from it
 HASH_TYPES = [
